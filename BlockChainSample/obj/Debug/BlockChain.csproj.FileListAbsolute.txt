@@ -1,0 +1,2 @@
+E:\Coding\Projects\C#\01_MainProjects\04_BlockChain\BlockChain\obj\Debug\BlockChain.csproj.AssemblyReference.cache
+E:\Coding\Projects\C#\01_MainProjects\04_BlockChain\BlockChain\obj\Debug\BlockChain.csproj.CoreCompileInputs.cache
